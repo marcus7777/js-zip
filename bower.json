@@ -3,8 +3,8 @@
   "authors": [
     "Marcus Hitchins <marcus7777@gmail.com>"
   ],
-  "description": "",
-  "main": "",
+  "description": "wapper for Stuk/jszip",
+  "main": "js-zip.html",
   "license": "MIT",
   "homepage": "",
   "ignore": [
